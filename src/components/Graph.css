@@ -1,0 +1,16 @@
+.MuiChartsAxis-line {
+  stroke: #f5f6f9 !important;
+}
+
+.MuiChartsAxis-tick {
+  stroke: transparent !important;
+}
+
+.MuiChartsAxis-tickLabel {
+  fill: #b5b7c9 !important;
+  transform: translate(0, 10px);
+}
+
+path.MuiLineElement-root {
+  stroke-width: 3 !important;
+}
